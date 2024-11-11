@@ -1,5 +1,12 @@
 # Installation
 
+## On Mac
+
+```bash
+brew install --cask chef-workstation
+```
+
+
 ## On Linux Machine
 In order to set up on the Linux machine, we need to first get curl on the machine.
 
@@ -23,3 +30,4 @@ If Ruby is already installed, then install the Chef Ruby gem on the machine by r
 ```bash
 $ gem install chef 
 ```
+
