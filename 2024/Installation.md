@@ -2,6 +2,8 @@
 
 ## On Mac
 
+install Chef Workstation using the Homebrew package manager:
+
 ```bash
 brew install --cask chef-workstation
 ```
